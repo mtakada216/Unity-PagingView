@@ -1,5 +1,5 @@
 # UniPagingView
-PagingView for Unity.
+PagingView for Unity.  
 This isn't animation. It works in conjunction with your fingers.
 
 ![screenshot1](https://github.com/kiepng/UniPagingView/blob/master/Documents/UniPagingView_Horizontal.gif)
