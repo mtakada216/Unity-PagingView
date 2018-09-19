@@ -12,8 +12,9 @@ This isn't animation. It works in conjunction with your fingers.
 3. Import to your Unity project.
 4. Create your Contens as follows.
 
-![screenshot3](https://github.com/kiepng/UniPagingView/blob/master/Documents/screenshot_hierarchy.png)
+![screenshot3](https://github.com/kiepng/UniPagingView/blob/master/Documents/screenshot_editor.png)
 ![screenshot4](https://github.com/kiepng/UniPagingView/blob/master/Documents/screenshot_inspector.png)
+
 
 ## Environment
 Unity2018.2.8f1
