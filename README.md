@@ -1,4 +1,4 @@
-# UniPagingView [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat)](http://mit-license.org) 
+# Unity-PagingView [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat)](http://mit-license.org) 
 PagingView for Unity.  
 This isn't animation. It works in conjunction with your fingers.
 
